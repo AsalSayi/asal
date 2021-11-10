@@ -1,3 +1,0 @@
-# asal
-
-Asal Sayılar
