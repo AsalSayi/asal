@@ -1,2 +1,4 @@
 # asal
-Html için
+Bakımda Derslerimin Bittiği An Geri Döneceğiz.
+
+Semih Balcı Sunar.
